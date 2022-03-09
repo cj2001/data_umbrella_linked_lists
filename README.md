@@ -15,3 +15,12 @@ In addition to the above, you will need the following Python packages:
 
 - pandas
 - neo4j (the official Python driver for Neo4j)
+
+## Resources
+
+- [O'Reilly Graph Algorithm Examples in Apache Spark & Neo4j Book](https://dev.neo4j.com/graph_algorithms_book)
+- [Cypher Docs](https://neo4j.com/docs/cypher-manual/current/)
+- [Cypher Reference Card](https://neo4j.com/docs/cypher-refcard/current/)
+- [Neo4j Drivers and APIs](https://neo4j.com/docs/drivers-apis/)
+- [Graph Data Science Library](https://neo4j.com/developer/graph-data-science/)
+- [Bite-Sized Neo4j for Data Scientists](https://neo4j.com/video/bite-sized-neo4j-for-data-scientists/)
