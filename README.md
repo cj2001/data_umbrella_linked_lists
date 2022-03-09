@@ -10,4 +10,9 @@ This repository contains all of the code and slides used in the March 15th runni
 
 - Access to a notebook environment such as [Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb) or the [VS Code Notebook Environment](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
 
-- If you choose to work with a graph database, you can create a free one (demonstrated in the course) with the [Neo4j Sandbox](https://sandbox.neo4j.com).
+- If you choose to work with a graph database, you can create a free one (demonstrated in the course) with the [Neo4j Sandbox](https://sandbox.neo4j.com).  For this course, we will be using the "Graph Data Science" sandbox, which is a pre-populated database of a Game of Thrones graph.
+
+In addition to the above, you will need the following Python packages:
+
+- pandas
+- neo4j (the official Python driver for Neo4j)
