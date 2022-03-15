@@ -3,7 +3,7 @@
 ### Presented to Data Umbrella on March 15, 2022
 #### email: clair.sullivan@neo4j.com
 #### Twitter: @CJLovesData1
-#### Last updated: March 9, 2022
+#### Last updated: March 14, 2022
 
 This repository contains all of the code and slides used in the March 15th running of the Data Umbrella course, "Arrays, Linked Lists, and Graphs".  You will need the following to follow along in the course:
 
